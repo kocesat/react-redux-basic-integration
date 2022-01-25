@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This app shows that how to integrate react and redux with react-redux library and some keywords provider and connect
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
